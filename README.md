@@ -12,7 +12,7 @@ pip install uv
 
 ## Screenshots
 
-![Screenshot 1](screenshots/Screenshot_from_2026-03-27_11-57-03.png)
+![Screenshot 1](Screenshot_from_2026-03-27_11-57-03.png)
 ![Screenshot 2](screenshots/Screenshot_from_2026-03-27_12-06-44.png)
 ![Screenshot 3](screenshots/Screenshot_from_2026-03-27_12-07-28.png)
 ![Screenshot 4](screenshots/Screenshot_from_2026-03-27_12-07-45.png)
