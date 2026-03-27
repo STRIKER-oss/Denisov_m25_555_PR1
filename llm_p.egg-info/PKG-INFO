@@ -1,0 +1,18 @@
+Metadata-Version: 2.4
+Name: llm-p
+Version: 0.1.0
+Summary: FastAPI service with JWT auth, SQLite, and OpenRouter LLM proxy
+Requires-Python: >=3.11
+Requires-Dist: fastapi>=0.112.0
+Requires-Dist: uvicorn[standard]>=0.30.0
+Requires-Dist: sqlalchemy>=2.0.30
+Requires-Dist: aiosqlite>=0.20.0
+Requires-Dist: pydantic[email]>=2.7.0
+Requires-Dist: pydantic-settings>=2.3.0
+Requires-Dist: python-jose[cryptography]>=3.3.0
+Requires-Dist: passlib[bcrypt]>=1.7.4
+Requires-Dist: httpx>=0.27.0
+Requires-Dist: python-multipart>=0.0.9
+Requires-Dist: greenlet>=3.3.1
+Requires-Dist: bcrypt>=4.0.1
+Requires-Dist: ruff>=0.14.14
